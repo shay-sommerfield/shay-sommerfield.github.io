@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Shay Sommerfield"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Originally a mechanical engineer, interested in computer science, electronics, and mechatronic systems."
+  bio    : "Software engineer with hardware background. I studied mechanical engineering at montatana state university and found a love for computer hardware and software a little too late. So I focused on computational simulation and mechatronics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
