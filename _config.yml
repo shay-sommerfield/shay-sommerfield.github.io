@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shay Sommerfield
+title: A small showcase of my projects and interests
 email: shaysommerfield@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A short list of projects, interests, and short bio for Shay Sommerfield#
@@ -68,7 +68,7 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/shs613/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
