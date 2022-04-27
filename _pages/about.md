@@ -7,3 +7,5 @@ I graduated Montana State University in 2018 with a bachelors in Mechanical Engi
 While working at HP, I tried to gear myself toward projects that reflected my skillset. This lead to me designing software and mechanical hardware for a CNC based portable printing system to test a new product. This allowed engineering to automate their testing of this new product rather than having techs perform the testing by hand. Following this, I switched to the control systems team to try to get closer to Mechatronics again. 
 
 While I value the experience that I gained from working on that team, I realized that I had gone the wrong direction and decided to take a break from engineering for a little while to move back to what excited me so much in school, programming and digital electronics. 
+
+In July of 2021 with a fresh mindset I came back to engineering with a transition to a Software Engineer at Bridger Photonics Inc. 
