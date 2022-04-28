@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Shay Sommerfield"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer with a diverse engineering background."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Software engineer with a diverse engineering background. Most of my projects were executed in private repos, but I will attempt to detail them here."
   location         : "Spokane,WA"
-  email            :
+  email            : "shaysommerfield@gma"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
