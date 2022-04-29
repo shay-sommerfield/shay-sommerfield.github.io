@@ -105,11 +105,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Software engineer with a diverse engineering background. Most of my projects were executed in private repos, but I will attempt to detail them here."
   location         : "Spokane,WA"
-  email            : "shaysommerfield@gma"
+  email            : "shaysommerfield@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "shaysommerfield@gmail.com"
+      # url: "shaysommerfield@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://shs613.github.io"
@@ -283,7 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
