@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "dark"  # default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Some projects and interests"
+title                    : "Shay - stuff I've made"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shay Sommerfield"
@@ -38,7 +38,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "light" # (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Shay Sommerfield"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer with a diverse engineering background. Most of my projects were executed in private repos, but I will attempt to detail them here."
+  bio              : "Software engineer with a diverse engineering background. Most of my projects have been executed in private repos, but I will attempt to detail them here."
   location         : "Spokane,WA"
   email            : "shaysommerfield@gmail.com"
   links:
