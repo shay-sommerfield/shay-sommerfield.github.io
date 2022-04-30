@@ -9,7 +9,7 @@ tags:
   - Python
   - Arduino
 ---
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/halloween_bathroom.gif){: .align-center}
 While hosting a halloween party, I wanted to make our bathroom an experience. A few hours before the party, I realized that I had everything needed to make our bathroom turn blood red when the door was closed. 
 
 ## Solution
