@@ -10,7 +10,7 @@ tags:
   - Arduino
 ---
 
-![](../assets/images/halloween_bathroom.gif)
+![](../assets/images/bio-photo.jpg)
 While hosting a halloween party, I wanted to make our bathroom an experience. A few hours before the party, I realized that I had everything needed to make our bathroom turn blood red when the door was closed. 
 
 ## Solution
