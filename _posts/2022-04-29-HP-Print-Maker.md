@@ -7,6 +7,7 @@ tags:
   - Testing
   - Software
   - Hardware
+  - Automation
 ---
 
 # Problem
