@@ -8,7 +8,7 @@ tags:
   - Data Science
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/all_beers_cropped.png){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/beer_tasting/all_beers_cropped.png){: .align-center}
 [Here is a link to the project and it's source code on github.](https://github.com/shs613/Beer_tasting_data_science_and_algorithm)
 While bubbled together during the pandemic,  a group of friends and I started doing blind taste tests for fun and to determine if we actually had "refined" taste or if we were just pretentious.
 
@@ -28,7 +28,7 @@ We eventually decided to do this with more standard lighter beer to determine if
 
 ## Setup
 We did the test as a double blind so that no person would know which beer they were drinking.
-![]({{ site.url }}{{ site.baseurl }}/assets/images/first_marking_2_cropped.png){: .align-center} 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/beer_tasting/first_marking_2_cropped.png){: .align-center} 
 We quickly realized that the tastes of the beers were blending together since there were so many, so I came up with a rating strategy that ended up looking pretty algorithmic.
 `
 ### Beer ranking algorithm
@@ -39,7 +39,7 @@ We quickly realized that the tastes of the beers were blending together since th
     * If worse, designate all beers currently ranked lower than the middle beer as the new comparison group. 
     * Repeat step 3 until the beer has been ranked.
 4. Repeat this process for all beers, making comparisons as necessary until you have established a ranking for each beer.
-![]({{ site.url }}{{ site.baseurl }}/assets/images/second_marking_cropped.png){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/beer_tasting/second_marking_cropped.png){: .align-center}
 
 ## Results
 Using the above ranking process, all beers were ranked 1 - 12. 
