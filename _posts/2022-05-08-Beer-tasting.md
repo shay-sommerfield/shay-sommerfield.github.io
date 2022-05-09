@@ -1,5 +1,5 @@
 ---
-title: "Beer tasting data science and algorithm"
+title: "Beer tasting algorithm and data science"
 last_modified_at: 2022-05-08T01:43:00-08:00
 categories:
   - Personal Project
@@ -30,7 +30,7 @@ We eventually decided to do this with more standard lighter beer to determine if
 We did the test as a double blind so that no person would know which beer they were drinking.
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/beer_tasting/first_marking_2_cropped.png){: .align-center} 
 We quickly realized that the tastes of the beers were blending together since there were so many, so I came up with a rating strategy that ended up looking pretty algorithmic.
-`
+
 ### Beer ranking algorithm
 1. Taste the first beer and then the second beer and rank them relative to each other.
 2. Taste the third beer and rank it relative to the first and second beer.
@@ -90,4 +90,4 @@ The standard deviation shows the following agreement amongst all 5 of us:
 ## What we would change
 The beers got warm pretty quickly, so either cooling them somehow or having a cold version anonymized and ready would be important.
 
-This taste test is exactly that a *taste* test. Because of that, one friend and I found we had a preference for Miller High Life while doing small tastes during the test, but did not enjoy drinking a whole beer.
+This taste test is exactly that, a *taste* test. Because of this, one friend and I found we had a preference for Miller High Life while doing small tastes during the test, but did not enjoy drinking a whole beer. So it should be noted that small tastes might not be a perfect indicator of beer preference.
