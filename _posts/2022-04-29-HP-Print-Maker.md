@@ -10,7 +10,7 @@ tags:
   - Automation
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/print_maker.png){: .align-center}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/print_maker.png" alt="">
 While working as a Systems Interaction Engineer at HP my team was tasked with testing a new product, a small portable cube like printer now called the [Print Maker][print-maker]. This was pretty distant from what we were used to testing which was run of the mill home printers. Our testing for home printers was already very automated from software to communicate directly to the printer to test procedures that caused known failures to data collection. However, this product functioned entirely differently. Being literally driven by the user itself, this presented a challenge for testing.
 
 ## Solution
