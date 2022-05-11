@@ -26,4 +26,4 @@ Overall the project was a success and allowed engineers to easily automate testi
 
 
 [print-maker]: https://www.linkedin.com/pulse/print-anything-anywhere-chad-q-martin/
-[shapeoko] : https://carbide3d.com/shapeoko/
+[shapeoko]: https://carbide3d.com/shapeoko/
